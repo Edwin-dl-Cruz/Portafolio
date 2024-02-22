@@ -922,5 +922,6 @@ footer .arriba {
 
     .contacto .fila .col {
         width: 100%;
+        margin-top: 0px;
     }
 }
